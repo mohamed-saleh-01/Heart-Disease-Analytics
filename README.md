@@ -12,6 +12,10 @@ This end-to-end Data Science project explores the intersection of lifestyle, dem
 ## 📊 Interactive Dashboard Portfolio
 The Power BI solution is built on a 3-tier architecture to provide a seamless data story.
 
+### 🏠 Page 1: Cover
+*Focus: Titel & pages.*
+![Cover](Dashboard%20Images/Cover.jpg)
+
 ### 🏠 Page 1: Strategic Overview
 *Focus: Demographics and Core Metrics.*
 ![Overview](Dashboard%20Images/Overview.jpg)
